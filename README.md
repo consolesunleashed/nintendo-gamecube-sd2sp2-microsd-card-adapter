@@ -2,7 +2,7 @@
 
 An aesthetically upgraded version of Citrus3000psi's SD2SP2 v1.2a.
 
-Read more about this project from the original creator https://github.com/citrus3000psi/SD2SP2
+Read more about this project from the creator of the original https://github.com/citrus3000psi/SD2SP2
 
 ![My Image](main.jpg)
 
